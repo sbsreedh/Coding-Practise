@@ -14,7 +14,7 @@
 | First Header  | Second Header |
 | ------------------------------------------------------------------------ | ------------- |
 | [253-Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)  | [Content Cell](https://github.com/sbsreedh/Coding-Practise/blob/master/meetingRoom2.py)  |
-| Content Cell  | Content Cell  |
+| [1472-Design browser History](https://leetcode.com/problems/design-browser-history/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/BrowserHistory.py ) |
 
 | No. |                                                          Question Title                                                    |  |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
