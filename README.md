@@ -13,7 +13,7 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| [Content Cell](https://leetcode.com/problems/meeting-rooms-ii/)  | Content Cell(https://github.com/sbsreedh/Coding-Practise/blob/master/meetingRoom2.py)  |
+| [Content Cell](https://leetcode.com/problems/meeting-rooms-ii/)  | [Content Cell](https://github.com/sbsreedh/Coding-Practise/blob/master/meetingRoom2.py)  |
 | Content Cell  | Content Cell  |
 
 | No. |                                                          Question Title                                                    |  |                                                                                          Solution                                                                                         |
