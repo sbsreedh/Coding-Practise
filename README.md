@@ -12,8 +12,8 @@
 # Bloomberg
 
 | First Header  | Second Header |
-| ------------- | ------------- |
-| [253|Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)  | [Content Cell](https://github.com/sbsreedh/Coding-Practise/blob/master/meetingRoom2.py)  |
+| ------------------------------------------------------------------------ | ------------- |
+| [253-Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)  | [Content Cell](https://github.com/sbsreedh/Coding-Practise/blob/master/meetingRoom2.py)  |
 | Content Cell  | Content Cell  |
 
 | No. |                                                          Question Title                                                    |  |                                                                                          Solution                                                                                         |
