@@ -16,6 +16,7 @@
 | [253-Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)  | [Content Cell](https://github.com/sbsreedh/Coding-Practise/blob/master/meetingRoom2.py)  |
 | [1472-Design browser History](https://leetcode.com/problems/design-browser-history/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/BrowserHistory.py ) |
 | [611-Valid Triangle](https://leetcode.com/problems/valid-triangle-number/)|[Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/validTriangle.py)|
+| [387-First Unique String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/firstUniqChar.py)|
 
 | No. |                                                          Question Title                                                    |  |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:-------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
