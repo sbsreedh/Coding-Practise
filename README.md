@@ -21,3 +21,4 @@
 |[2-Add two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/addTwoNumbers.py)|
 |[Word break 2](https://leetcode.com/problems/word-break-ii/)| [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/wordBreak2.py)|
 |[797-All path from source to target](https://leetcode.com/problems/all-paths-from-source-to-target/)   | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/allPathsSourceTarget.py)|
+|[1057-Remove duplicates in string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/removeDuplicates1.py)|
