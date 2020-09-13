@@ -30,3 +30,4 @@
 | ------------------------------------------------------------------------ | ------------- |
 | [692-Top k frequent Words](https://leetcode.com/problems/top-k-frequent-words/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/topKFrequent.py)  |
 | [347-Top k frequent Numbers](https://leetcode.com/problems/top-k-frequent-elements/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/topKFrequentelements.py)   |
+| [Top K Frequently Mentioned Keywords](https://leetcode.com/discuss/interview-question/542597/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/Frequencyofwordsinreviews.py)   |
