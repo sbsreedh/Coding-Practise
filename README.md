@@ -29,3 +29,4 @@
 |Question Title | Solution |
 | ------------------------------------------------------------------------ | ------------- |
 | [692-Top k frequent elements](https://leetcode.com/problems/top-k-frequent-words/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/topKFrequent.py)  |
+| [347-Top k frequent Numbers](https://leetcode.com/problems/top-k-frequent-elements/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/topKFrequent.py)   |
