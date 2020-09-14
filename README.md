@@ -32,3 +32,5 @@
 | [347-Top k frequent Numbers](https://leetcode.com/problems/top-k-frequent-elements/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/topKFrequentelements.py)   |
 | [Top K Frequently Mentioned Keywords](https://leetcode.com/discuss/interview-question/542597/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/Frequencyofwordsinreviews.py)   |
 | [1192-Crictical Connections](https://leetcode.com/problems/critical-connections-in-a-network/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/criticalConnections.py)   |
+| [1268-Search suggestion system](https://leetcode.com/problems/search-suggestions-system/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/suggestedProducts.py)   |
+
