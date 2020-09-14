@@ -34,4 +34,5 @@
 | [1192-Crictical Connections](https://leetcode.com/problems/critical-connections-in-a-network/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/criticalConnections.py)   |
 | [1268-Search suggestion system](https://leetcode.com/problems/search-suggestions-system/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/suggestedProducts.py)   |
 | [Zombies in the matrix](https://leetcode.com/discuss/interview-question/411357/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/orangesRotting.py)   |
+| [Insert into BST](https://leetcode.com/problems/insert-into-a-binary-search-tree/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/insertIntoBST.py)   |
 
