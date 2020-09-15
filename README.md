@@ -37,4 +37,5 @@
 | [Insert into BST](https://leetcode.com/problems/insert-into-a-binary-search-tree/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/insertIntoBST.py)   |
 | [Reorder Log files](https://leetcode.com/problems/reorder-data-in-log-files/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/reorderLogFiles.py)   |
 | [763-Partition Labels](https://leetcode.com/problems/partition-labels/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/partitionLabels.py)   |
+| [763-Partition Labels](https://leetcode.com/problems/most-common-word/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/mostCommonWord.py)   |
 
