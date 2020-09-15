@@ -36,4 +36,5 @@
 | [Zombies in the matrix](https://leetcode.com/discuss/interview-question/411357/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/orangesRotting.py)   |
 | [Insert into BST](https://leetcode.com/problems/insert-into-a-binary-search-tree/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/insertIntoBST.py)   |
 | [Reorder Log files](https://leetcode.com/problems/reorder-data-in-log-files/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/reorderLogFiles.py)   |
+| [763-Partition Labels](https://leetcode.com/problems/partition-labels/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/partitionLabels.py)   |
 
