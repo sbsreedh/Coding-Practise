@@ -40,4 +40,5 @@
 | [819-Most common Word](https://leetcode.com/problems/most-common-word/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/mostCommonWord.py)   |
 | [1152-Most visited pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/mostVisitedPattern.py)   |
 | [957-Prison Cells after N days](https://leetcode.com/problems/prison-cells-after-n-days/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/prisonAfterNDays.py)   |
+| [973-k-closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/kClosest.py)   |
 
