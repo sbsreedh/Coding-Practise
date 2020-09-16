@@ -38,4 +38,5 @@
 | [Reorder Log files](https://leetcode.com/problems/reorder-data-in-log-files/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/reorderLogFiles.py)   |
 | [763-Partition Labels](https://leetcode.com/problems/partition-labels/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/partitionLabels.py)   |
 | [819-Most common Word](https://leetcode.com/problems/most-common-word/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/mostCommonWord.py)   |
+| [1152-Most visited pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/mostVisitedPattern.py)   |
 
