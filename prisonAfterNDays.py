@@ -4,7 +4,8 @@
 #4. If it fast forwarded, in the state keys, you store the present arrangement,
 #5.then if the state key is present in seen dict, then calculate the cycle left as  as N%=seen[state_key]-N, and make fast forwarded a true else just update the seen by N
 #6. return cells
-
+#TC:O(min(N,2^k)
+#SC:O(2^k)
 
 class Solution:
     def prisonAfterNDays(self, cells: List[int], N: int) -> List[int]:
@@ -36,7 +37,8 @@ class Solution:
             state_bitmap=(state_bitmap & 0x7e)
             return state_bitmap
             
-  
+ #TC:O(K.min(N,2^k)
+#SC:O(K.2^k) 
 class Solution:
     def prisonAfterNDays(self, cells: List[int], N: int) -> List[int]:          
             
