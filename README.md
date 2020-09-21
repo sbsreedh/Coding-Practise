@@ -24,6 +24,7 @@
 |[1047-Remove duplicates in string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/removeDuplicates1.py)|
 |[3-Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/lengthOfLongestSubstring.py)|
 |[445-Add two numbers](https://leetcode.com/problems/add-two-numbers-ii/)| [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/2addTwoNumbers.py)|
+|[56-Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/merge.py)|
 
 
 # Amazon
