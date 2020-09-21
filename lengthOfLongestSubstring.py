@@ -8,18 +8,34 @@
 #return max length
 
 
+#TC:O(n)
+#SC:O((m)),m-#unique character in string
+#Normal sliding window:Using two pointers.use a slding window to check unique strinngs by storing the character in a hasset, if the char repeats remove them form set, and increment i. 
+#TC:O(2n)
+#SC:O(n)
+
+
+#Sliding window optmised
+#TC:O(n)
+#SC:O((m)),m-#unique character in string
+
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-      
-        myset=defaultdict()
-        maxlen=0
-        i=0
-        for j in range(0,len(s)):
-                if  s[j] in myset:
-                    i=max(myset[s[j]],i)
-                maxlen=max(maxlen,j-i+1) 
-                myset[s[j]]=j+1
-        print(myset)
-        return maxlen
-                    
-          
+         if not s:
+                return 0
+         i=0
+         maxlen=float("-inf")
+         hashMap=defaultdict(int)
+         for j in range(len(s)):
+            if s[j] in hashMap:
+                i=max(hashMap[s[j]],i)
+            maxlen=max(maxlen,j-i+1)
+            hashMap[s[j]]=j+1
+         print(hashMap)
+         return maxlen
+        
+    
+            
+            
+            
+           
