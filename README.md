@@ -45,5 +45,5 @@
 | [957-Prison Cells after N days](https://leetcode.com/problems/prison-cells-after-n-days/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/prisonAfterNDays.py)   |
 | [973-k-closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/kClosest.py)   |
 | [5-Longest alindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/longestPalindrome.py)   |
-| [189-https://leetcode.com/problems/rotate-array/](https://leetcode.com/problems/rotate-array/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/rotate.py)   |
+| [189-Rotate array](https://leetcode.com/problems/rotate-array/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/rotate.py)   |
 
