@@ -47,5 +47,6 @@
 | [5-Longest alindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/longestPalindrome.py)   |
 | [189-Rotate array](https://leetcode.com/problems/rotate-array/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/rotate.py)   |
 | [17 Letter combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/letterCombinations.py)   |
+| [48 Rotate Image](https://leetcode.com/problems/rotate-image/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/rotateMatrix.py)   |
 
 
