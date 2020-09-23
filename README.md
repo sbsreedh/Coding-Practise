@@ -50,5 +50,6 @@
 | [48 Rotate Image](https://leetcode.com/problems/rotate-image/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/rotateMatrix.py)   |
 | [396 Rotate Function](https://leetcode.com/problems/rotate-function/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/maxRotateFunction.py)   |
 | [508 Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/findFrequentTreeSum.py)   |
+| [538 Convert BST to greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/convertBST.py)   |
 
 
