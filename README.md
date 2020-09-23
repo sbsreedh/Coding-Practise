@@ -49,5 +49,6 @@
 | [17 Letter combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/letterCombinations.py)   |
 | [48 Rotate Image](https://leetcode.com/problems/rotate-image/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/rotateMatrix.py)   |
 | [396 Rotate Function](https://leetcode.com/problems/rotate-function/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/maxRotateFunction.py)   |
+| [508 Rotate Function](https://leetcode.com/problems/most-frequent-subtree-sum/)  | [Solution.py](https://github.com/sbsreedh/Coding-Practise/blob/master/maxRotateFunction.py)   |
 
 
